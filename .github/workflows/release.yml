@@ -1,4 +1,4 @@
-name: "refresh"
+name: "release"
 
 on:
   workflow_run:
