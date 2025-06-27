@@ -1,0 +1,61 @@
+Package: com.77Theme.xin.arm64
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: cc@theme77.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/1.0.7-arm64.deb
+Size: 7216102
+MD5sum: 1d53c3d70f37db4d98b5ff92aff49c9c
+SHA1: 848b75fc543e0f0a2444a055176ac9d7e64e12ff
+SHA256: a6382804d2c69023a5c7e99de9f5490d46d9d986aa92412d9817cca408c69c2e
+Section: Rootless
+Priority: optional
+Description: 77Theme-Rootless
+Author: CC
+Name: 77Theme-Rootless
+
+Package: com.HBWechatHelper.ailun
+Version: 1.8.8
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/黄白助手 1.8-8_无根.deb
+Size: 11588940
+MD5sum: 2f9229fa577fdb5a0a0e75ec0e38abca
+SHA1: df405ba27e6c629926d2b2a7a2aa8b4166f9c6ee
+SHA256: 64535e32947fe24669a4ea80578198422da881dbd0fc4d8bca9d365422741d75
+Section: Mao
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+
+Package: com.mumu.nixianggg
+Version: 1.0.0-30+debug
+Architecture: iphoneos-arm
+Maintainer: mumu
+Installed-Size: 1052
+Filename: ./debs/NiXiangGG1.2版本.deb
+Size: 193516
+MD5sum: e63c54b6e2af1657b0a35a6ff9f2de45
+SHA1: e058759488eca49c2446fa3715b65ca24ef870a0
+SHA256: 85f637e54ac8304fa600049c9da0241faf3ea66ed62d734ebdbe0e4593b795b1
+Section: Tweaks
+Description: 使用双指长按激活的自定义组件移除工具，可以去除UIAlertController弹窗和其他UI组件
+Author: mumu
+Name: NixiangGG
+
+Package: com.pingfan.wechat
+Version: 2.2-5
+Architecture: iphoneos-arm
+Maintainer: 平凡
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/虚拟视频_2.2-5.deb
+Size: 1615860
+MD5sum: 87fdff8c8670a99ac25e95e5a274aa8c
+SHA1: 880f13dedb4f7c2a3857be1f1760f1f4b1081606
+SHA256: da81477bd15cd85ed494ca5710e49a4c11da81adc7f508e2d441e159b0285224
+Section: Tweaks
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
+Author: 平凡
+Name: 虚拟视频
+
