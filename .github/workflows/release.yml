@@ -1,4 +1,4 @@
-name: "release"
+name: "refresh"
 
 on:
   workflow_run:
@@ -68,3 +68,4 @@ jobs:
           GH_REPO: ${{ github.repository }}
         run: |
           remove_all_actions
+
